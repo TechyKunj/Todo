@@ -2,10 +2,6 @@
 
 Welcome to the Todo List Website project! This project is built using Python, Django, HTML, and CSS. It allows users to manage their daily tasks efficiently.
 
-<div style="text-align: center;">
-  <img src="[https://media.giphy.com/media/xT9Igpnsn6E0RkC8dG/giphy.gif](https://th.bing.com/th/id/R.6dffd49b9b21c72f529e3f076d147464?rik=sSWLOiuWSpIw%2fQ&riu=http%3a%2f%2fwww.clipartbest.com%2fcliparts%2fdi7%2fLgd%2fdi7Lgd4xT.png&ehk=92cPQBJePlppvURjXxgnfIQnVSlUqosIGELv22uljtY%3d&risl=&pid=ImgRaw&r=0)" alt="Todo List Animation" width="300">
-</div>
-
 ## 🌟 Features
 
 - ✅ Add new tasks
@@ -100,5 +96,10 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 ## 📄 License
 
 This project is licensed under the MIT License.
+
+<div style="text-align: center;">
+  <img src="![image](https://github.com/TechyKunj/Todo/assets/120329440/7e3ed40f-d058-4cd5-a790-974baa78ee4c)
+" alt="Todo List Animation" width="300">
+</div>
 
 Happy Coding! 💻✨
