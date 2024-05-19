@@ -98,8 +98,7 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 This project is licensed under the MIT License.
 
 <div style="text-align: center;">
-  <img src="![image](https://github.com/TechyKunj/Todo/assets/120329440/7e3ed40f-d058-4cd5-a790-974baa78ee4c)
-" alt="Todo List Animation" width="300">
+  <img src="[![image](https://github.com/TechyKunj/Todo/assets/120329440/7e3ed40f-d058-4cd5-a790-974baa78ee4c)](https://1drv.ms/i/s!AtsCbJYwVL-UvF2qb4FugaJNLI-G?e=xgORZn)" alt="Todo List Animation" width="300">
 </div>
 
 Happy Coding! 💻✨
